@@ -1,3 +1,8 @@
 Hello world
 Today,i only learn about git .
-git test good job¡£
+git test good job
+
+20150514
+hello.i am at branch master.
+today i want to test how to git marge
+
