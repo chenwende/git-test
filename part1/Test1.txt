@@ -1,8 +1,21 @@
 Hello world
 Today,i only learn about git .
+<<<<<< HEAD
 git test good job
 
 20150514
 hello.i am at branch master.
 today i want to test how to git marge
+=============
+git test good job¡£
+you ar a nice girl.dear jun
+
+2015514
+helle git 
+long time on see.
+and now i will new a branch named bone
+and push a new commit .
+>>>>>>> bone
+
+now i know that how to git merge ,i will add all fix in this txt
 
